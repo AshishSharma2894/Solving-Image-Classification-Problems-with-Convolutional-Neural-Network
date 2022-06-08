@@ -4,11 +4,17 @@ The dataset used in this project is the Chest X-ray dataset: https://www.kaggle.
 
 This project consists of two goals: (1) compare the performance of multiple CNN pre-trained models  and (2) propose a new model that can improve the performance of the best pre-trained model. For the first step, selected two of the pre-trained models and compared their performance with the current dataset without changing any aspect of these networks:
 1. AlexNet
+
 2.ResNet
+
 however the essential steps your code should include are:
+
 • Data Cleaning and analysis
+
 • Loading and adjusting the pre-trained models
+
 • Training and testing different models
+
 • Plot the results comparing different networks
 
 As it can be seen in the figure1 that the model trains with the accuracy of 61% for the Test Data and for the training data the accuracy is as high as 93%.
